@@ -1,0 +1,105 @@
+Yet another spyglass mod. Also binoculars and scopes. 
+
+[b]Mod ID for the lazy:[/b] 1890796153
+
+Adds several new tools for better observation of the environment and dinosaurs. Most of these are upgrades to previous versions (e.g. the variable spyglass is an upgrade to the spyglass), requiring the previous version as part of its crafting recipe. 
+
+[h1]Quick-Fire Feature List:[/h1]
+- A spyglass with adjustable zoom
+- 4 versions of binoculars, the last of which will allow you to see dino stats, has night-vision, and has a dino detector (as in the TEK Helmet)
+- 2 attachable upgrades for the binoculars, which can either upgrade the night-vision or replace it with the Snow Owl's Predator Vision
+- An advanced scope which allows you to see dino stats with a weapon (also has adjustable zoom)
+- An advanced holoscope, for short-range weapons
+- An ocular implant, so you can have all this stuff projected directly onto your retinas
+- 2 different Stat UIs to choose from
+
+[h1]Full Item List:[/h1]
+
+[b]Variable-Zoom Syglass[/b] 
+
+An upgrade to the spyglass which allows you to zoom in/out via the scroll wheel. 
+
+[i]Unlocked at level 20 for 6 Engram Points.[/i]
+
+[b]Binoculars v1[/b]
+
+The version 1 binoculars are just the standard Tek Binoculars, as featured in several other mods, with the weird audio listener function disabled. Features a built-in compass, rangefinder, target coordinates and variable-zoom. 
+
+[i]Unlocked at level 50 for 20 EP.[/i]
+
+[b]Binoculars v2[/b] 
+
+The version 2 binocular upgrade adds the dino stat display, showing you all the stats and level-ups of any creature you target. There are two display formats available, which you can select by pressing SHIFT+P when holding any of the binoculars. 
+
+[i]Unlocked at level 75 for 20 EP.[/i]
+
+[b]Binoculars v3[/b]
+
+This version adds night-vision, toggleable by pressing the "fire" button when looking through the binoculars. 
+
+[i]Unlocked at level 88 for 20 EP. [/i]
+
+[b]Night Vision Filter Attachment[/b]
+
+An attachment for either the v3 or v4 binoculars. Changes the night-vision to the more advanced version, removing the glare from bright light sources. 
+
+[i]Unlocked at level 90 for 20 EP. [/i]
+
+[b]Binoculars v4[/b]
+
+The final upgrade, this adds a creature detector like in the TEK Helmet. It is toggleable by pressing the "alt-fire" button when looking through the binoculars. 
+
+[i]Unlocked at level 92 for 20 EP.[/i]
+
+[b]Predator Mode Attachment[/b]
+
+An attachment for the v3 and v4 binoculars that swaps the night vision for predator vision. 
+
+[i]Unlocked at level 95 for 20 EP. [/i]
+
+[b]Advanced Scope Attachment[/b]
+
+A scope that features variable-zoom and a dino stat display. Supports the simple pistol, longneck, assault rifle, and sniper rifle. 
+
+[i]Unlocked at level 80 for 20 EP.[/i]
+
+[b]Advanced Holo-Scope Attachment[/b]
+
+A holoscope which features the dino stat display. It does not have a variable zoom, however it does show a crosshair and stat display even when you're not looking through the sights. Supports the fabricated pistol, pump-action shotgun, and assault rifle. 
+
+[i]Unlocked at level 80 for 20 EP.[/i]
+
+[b]Ocular Implant[/b]
+
+A high-tech implant, allowing you to use the dino stat display without any equipment. Also includes the creature detector and night vision, with further upgrades available via the binoculars attachments (see above). 
+Be warned: installing the implant hurts! Turns out you can't just jam things in your eyeballs without consequences. 
+
+[i]Unlocked at level 100 for 50 EP[/i]
+
+[h1]Planned Features:[/h1]
+
+- Advanced Scope v2, which will add night-vision and a creature detector. 
+- A display of the absolute speeds of the target, taking into account its speed modifier
+- [i]Maybe[/i] a display of the absolute damage too, though this would only be for the target's primary attack
+
+[h1]Known Issues:[/h1]
+
+- Sometimes, if you hit your aim button too quickly after equipping something, it doesn't detect that you're aiming. This is fixed by just releasing and re-pressing aim. 
+- No way to change zoom level or use the ocular implant with a controller. 
+- If you open the emote and/or whistle wheel (or most other interfaces that don't disable game input or automatically unequip your weapon) while you have the binoculars equipped, you won't be able to close it. If this happens, just unequip the binoculars and you'll be able to close it. This may be unfixable. 
+- If you have the ocular implant installed, the stat UI can appear over the top of other menus
+- There are several other items that use the stat UI, but only the binoculars allow you to open the config menu to change it
+- If you change your stat UI selection while the ocular implant's is enabled, it will not be immediately updated. To update it, just turn it off and on again. 
+- The ocular implant doesn't appear to be getting saved/loaded correctly. 
+
+[h1]With thanks to...[/h1]
+
+orionsun, for the open-source [url=https://steamcommunity.com/sharedfiles/filedetails/?id=793605978]Super Spyglass[/url], on which this is based. 
+
+The mod SelVision. This mod started as an attempt to re-create SelVision after it was removed from the Workshop. 
+
+You, for liking and/or favouriting this, like the good little subscriber that you are. You [i]did[/i] do that, right? 
+
+
+
+[url=https://steamcommunity.com/workshop/filedetails/discussion/1890796153/1606022547913144684/]Item IDs[/url]

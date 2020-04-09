@@ -1,0 +1,48 @@
+Progression
+
+/ Spyglass
+	/ Variable-zoom spyglass
+		- As it says, a regular spyglass with variable zoom
+		- Smithy-tier
+
+- Binoculars
+	- All fabricator-tier
+	/ v1
+		- Just the binocs, with compass, coords and variable zoom. 
+	/ v2
+		- Adds the dino stat readout
+	/ v3
+		- Adds night vision
+	/ v4
+		- Adds detector
+
+- Scope
+	- Fabricator-tier, unlocked soon after matching binoculars upgrades
+	/ Advanced Scope v1
+		- Scope with variable zoom & dino stat readout
+	- Advanced Scope v2
+		- Adds night vision and detector
+
+- Ocular Implant
+	- Tek-tier?
+	- Consumable, adds a buff when used which gives the dino stat readout at all times, plus night vision and detector [toggleable via emotes?]
+
+Issues
+
+- Binocular stack size
+
+- Controller support
+
+Todo
+
+- Absolute speeds display
+
+- Possibly absolute damage for primary?
+
+- Re-design interface
+	- Smaller title, less blank space
+	- Add icon?
+
+- Night vision
+
+- Detector
