@@ -4,6 +4,8 @@ Yet another spyglass mod. Also binoculars and scopes.
 
 Adds several new tools for better observation of the environment and dinosaurs. Most of these are upgrades to previous versions (e.g. the variable spyglass is an upgrade to the spyglass), requiring the previous version as part of its crafting recipe. 
 
+This mod is also open source. Public repo here, which will be updated with every live release: https://github.com/ProfCupcake/CupVision-public
+
 [h1]Quick-Fire Feature List:[/h1]
 - A spyglass with adjustable zoom
 - 4 versions of binoculars, the last of which will allow you to see dino stats, has night-vision, and has a dino detector (as in the TEK Helmet)
@@ -23,19 +25,19 @@ An upgrade to the spyglass which allows you to zoom in/out via the scroll wheel.
 
 [b]Binoculars v1[/b]
 
-The version 1 binoculars are just the standard Tek Binoculars, as featured in several other mods, with the weird audio listener function disabled. Features a built-in compass, rangefinder, target coordinates and variable-zoom. 
+The version 1 binoculars are just the standard Tek Binoculars, as featured in several other mods, with the weird audio listener function disabled and the zoom improved. Features a built-in compass, rangefinder, target coordinates, and variable-zoom. 
 
-[i]Unlocked at level 50 for 20 EP.[/i]
+[i]Unlocked at level 52 for 20 EP.[/i]
 
 [b]Binoculars v2[/b] 
 
-The version 2 binocular upgrade adds the dino stat display, showing you all the stats and level-ups of any creature you target. There are two display formats available, which you can select by pressing SHIFT+P when holding any of the binoculars. 
+The version 2 binocular upgrade adds the dino stat display, showing you all the stats and level-ups of any creature you target. There are two display formats available, which you can select by pressing SHIFT+P when holding any of the binoculars. You can also (un)lock the current target by pressing your HUD info key (default H). 
 
 [i]Unlocked at level 75 for 20 EP.[/i]
 
 [b]Binoculars v3[/b]
 
-This version adds night-vision, toggleable by pressing the "fire" button when looking through the binoculars. 
+This version adds night-vision, toggleable by pressing the "fire" (default LMB) button when looking through the binoculars. 
 
 [i]Unlocked at level 88 for 20 EP. [/i]
 
@@ -47,7 +49,7 @@ An attachment for either the v3 or v4 binoculars. Changes the night-vision to th
 
 [b]Binoculars v4[/b]
 
-The final upgrade, this adds a creature detector like in the TEK Helmet. It is toggleable by pressing the "alt-fire" button when looking through the binoculars. 
+The final upgrade, this adds a creature detector like in the TEK Helmet. It is toggleable by pressing the "alt-fire" (default CTRL) button when looking through the binoculars. 
 
 [i]Unlocked at level 92 for 20 EP.[/i]
 
@@ -79,7 +81,6 @@ Be warned: installing the implant hurts! Turns out you can't just jam things in 
 [h1]Planned Features:[/h1]
 
 - Advanced Scope v2, which will add night-vision and a creature detector. 
-- A display of the absolute speeds of the target, taking into account its speed modifier
 - [i]Maybe[/i] a display of the absolute damage too, though this would only be for the target's primary attack
 
 [h1]Known Issues:[/h1]
@@ -90,7 +91,7 @@ Be warned: installing the implant hurts! Turns out you can't just jam things in 
 - If you have the ocular implant installed, the stat UI can appear over the top of other menus
 - There are several other items that use the stat UI, but only the binoculars allow you to open the config menu to change it
 - If you change your stat UI selection while the ocular implant's is enabled, it will not be immediately updated. To update it, just turn it off and on again. 
-- The ocular implant doesn't appear to be getting saved/loaded correctly. 
+- The ocular implant buff isn't saved/loaded. There is a workaround for this - the removal item will remember which implant you had and still give it back to you after saving & loading. You will still take the removal/install damage, however. 
 
 [h1]With thanks to...[/h1]
 
