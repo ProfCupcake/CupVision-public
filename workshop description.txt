@@ -85,13 +85,14 @@ Be warned: installing the implant hurts! Turns out you can't just jam things in 
 - Advanced Scope v2, which will add night-vision and a creature detector. 
 - [i]Maybe[/i] a display of the absolute damage too, though this would only be for the target's primary attack
 - More UI options, including one that attempts to recreate the old SelVision UI (this will take a while - I'm terrible at making UIs)
-- Display [strike]owning tribe and/or[/strike] player
+- Display owning player; backend for this is done, I just need to add it to the UI
 - [i]Maybe[/i] display stats for structures too. 
+- A numerical display for target coordinates, because the default binoculars one is weird and difficult to read
 
 [h1]Known Issues:[/h1]
 
-- Sometimes, if you hit your aim button too quickly after equipping something, it doesn't detect that you're aiming. This is fixed by just releasing and re-pressing aim. 
 - No way to change zoom level or use the ocular implant with a controller. 
+- Sometimes, if you hit your aim button too quickly after equipping something (or if you are already holding it before equipping), it doesn't detect that you're aiming. This is fixed by just releasing and re-pressing aim. 
 - If you open the emote and/or whistle wheel (or most other interfaces that don't disable game input or automatically unequip your weapon) while you have the binoculars equipped, you won't be able to close it. If this happens, just unequip the binoculars and you'll be able to close it. This may be unfixable. 
 - If you have the ocular implant installed, the stat UI can appear over the top of other menus
 - There are several other items that use the stat UI, but only the binoculars allow you to open the config menu to change it
