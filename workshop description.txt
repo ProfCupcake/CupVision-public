@@ -92,7 +92,6 @@ Be warned: installing the implant hurts! Turns out you can't just jam things in 
 [h1]Known Issues:[/h1]
 
 - No way to change zoom level or use the ocular implant with a controller. 
-- Sometimes, if you hit your aim button too quickly after equipping something (or if you are already holding it before equipping), it doesn't detect that you're aiming. This is fixed by just releasing and re-pressing aim. 
 - If you open the emote and/or whistle wheel (or most other interfaces that don't disable game input or automatically unequip your weapon) while you have the binoculars equipped, you won't be able to close it. If this happens, just unequip the binoculars and you'll be able to close it. This may be unfixable. 
 - If you have the ocular implant installed, the stat UI can appear over the top of other menus
 - There are several other items that use the stat UI, but only the binoculars allow you to open the config menu to change it
