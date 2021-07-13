@@ -1,10 +1,10 @@
 Yet another spyglass mod. Also binoculars and scopes. 
 
+[b]Just looking for the controls? See [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2194977406]this guide[/url].[/b]
+
 [b]Mod ID for the lazy:[/b] 1890796153
 
 Adds several new tools for better observation of the environment and dinosaurs. Most of these are upgrades to previous versions (e.g. the variable spyglass is an upgrade to the spyglass), requiring the previous version as part of its crafting recipe. 
-
-[b]Just looking for the controls? See [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2194977406]this guide[/url].[/b]
 
 This mod is also open source. Public repo here, which will be updated with every live release: https://github.com/ProfCupcake/CupVision-public
 
@@ -14,8 +14,8 @@ This mod is also open source. Public repo here, which will be updated with every
 - 2 attachable upgrades for the binoculars, which can either upgrade the night-vision or replace it with the Snow Owl's Predator Vision
 - An advanced scope which allows you to see dino stats with a weapon (also has adjustable zoom)
 - An advanced holoscope, for short-range weapons
-- An ocular implant, so you can have all this stuff projected directly onto your retinas
-- 2(-ish) different Stat UIs to choose from
+- An ocular implant, so you can have all this stuff projected directly onto your retinae
+- 3(-ish) different Stat UIs to choose from
 
 [h1]Full Item List:[/h1]
 
@@ -83,15 +83,17 @@ Be warned: installing the implant hurts! Turns out you can't just jam things in 
 [h1]Planned Features:[/h1]
 
 - Advanced Scope v2, which will add night-vision and a creature detector. 
-- [i]Maybe[/i] a display of the absolute damage too, though this would only be for the target's primary attack
-- More UI options, including one that attempts to recreate the old SelVision UI (this will take a while - I'm terrible at making UIs)
+- [i]Maybe[/i] a display of the absolute damage too, as soon as I can figure out how you even find the damage for creatures. 
+- More UI options; the next one I'm working on is one styled like HLN-A's scans
+- [i]Maybe[/i] different scope reticle options?
 - Display owning player; backend for this is done, I just need to add it to the UI
-- [i]Maybe[/i] display stats for structures too. 
+- [i]Maybe[/i] display stats for structures too. This will require a big rewrite so it'll take a while if I ever do attempt it. 
+- At some point I'd [i]really[/i] like to try rebuilding the binoculars "from the ground up", to try to properly get rid of the annoying vanilla features that I currently have disabled via awkward workarounds. 
 
 [h1]Known Issues:[/h1]
 
 - No way to change zoom level or use the ocular implant with a controller. 
-- If you open the emote and/or whistle wheel (or most other interfaces that don't disable game input or automatically unequip your weapon) while you have the binoculars equipped, you won't be able to close it. If this happens, just unequip the binoculars and you'll be able to close it. This may be unfixable. 
+- If you open the emote and/or whistle wheel (or most other interfaces that don't disable game input or automatically unequip your weapon) while you have the binoculars equipped, you won't be able to use it. If this happens, just unequip the binoculars. This may be unfixable. 
 - If you have the ocular implant installed, the stat UI can appear over the top of other menus
 - There are several other items that use the stat UI, but only the binoculars allow you to open the config menu to change it
 - If you change your stat UI selection while the ocular implant's is enabled, it will not be immediately updated. To update it, just turn it off and on again. 
